@@ -202,7 +202,7 @@ function QuickAddClient({ editForm }) {
           ) : (
             <input
               autoComplete="nope"
-              placeholder="Billing Address"
+              placeholder="Address"
               className={
                 !validForm.billingAddress && isTouched
                   ? defaultInputInvalidStyle

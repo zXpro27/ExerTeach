@@ -137,7 +137,7 @@ function InvoiceTable({ showAdvanceSearch = false }) {
       <div className="sm:bg-white rounded-xl sm:px-3 sm:py-3">
         <div className="hidden sm:flex invisible sm:visible w-full flex-col sm:flex-row">
           <div className="sm:text-left text-default-color font-title flex-1">
-            Invoice Name
+            Receipt No
           </div>
           <div className="sm:text-left text-default-color font-title flex-1">
             Client Name
